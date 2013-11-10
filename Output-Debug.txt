@@ -1,0 +1,123 @@
+'ReplicationServiceD.exe': Loaded 'D:\src\Binaries\Win32\ReplicationService\ReplicationServiceD.exe', Symbols loaded.
+'ReplicationServiceD.exe': Loaded 'C:\WINDOWS\system32\ntdll.dll', No symbols loaded.
+'ReplicationServiceD.exe': Loaded 'C:\WINDOWS\system32\kernel32.dll', No symbols loaded.
+'ReplicationServiceD.exe': Loaded 'C:\WINDOWS\system32\msvcp71d.dll', Symbols loaded.
+'ReplicationServiceD.exe': Loaded 'C:\WINDOWS\system32\msvcr71d.dll', Symbols loaded.
+'ReplicationServiceD.exe': Loaded 'C:\WINDOWS\system32\mfc71d.dll', Symbols loaded.
+'ReplicationServiceD.exe': Loaded 'C:\WINDOWS\system32\gdi32.dll', No symbols loaded.
+'ReplicationServiceD.exe': Loaded 'C:\WINDOWS\system32\user32.dll', No symbols loaded.
+'ReplicationServiceD.exe': Loaded 'C:\WINDOWS\system32\shlwapi.dll', No symbols loaded.
+'ReplicationServiceD.exe': Loaded 'C:\WINDOWS\system32\advapi32.dll', No symbols loaded.
+'ReplicationServiceD.exe': Loaded 'C:\WINDOWS\system32\rpcrt4.dll', No symbols loaded.
+'ReplicationServiceD.exe': Loaded 'C:\WINDOWS\system32\msvcrt.dll', No symbols loaded.
+'ReplicationServiceD.exe': Loaded 'C:\WINDOWS\system32\ole32.dll', No symbols loaded.
+'ReplicationServiceD.exe': Loaded 'C:\WINDOWS\system32\oleaut32.dll', No symbols loaded.
+'ReplicationServiceD.exe': Loaded 'C:\WINDOWS\system32\ws2_32.dll', No symbols loaded.
+'ReplicationServiceD.exe': Loaded 'C:\WINDOWS\system32\ws2help.dll', No symbols loaded.
+'ReplicationServiceD.exe': Loaded 'C:\WINDOWS\system32\odbc32.dll', No symbols loaded.
+'ReplicationServiceD.exe': Loaded 'C:\WINDOWS\system32\comctl32.dll', No symbols loaded.
+'ReplicationServiceD.exe': Loaded 'C:\WINDOWS\system32\shell32.dll', No symbols loaded.
+'ReplicationServiceD.exe': Loaded 'C:\WINDOWS\system32\comdlg32.dll', No symbols loaded.
+'ReplicationServiceD.exe': Loaded 'C:\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9\comctl32.dll', No symbols loaded.
+'ReplicationServiceD.exe': Loaded 'C:\WINDOWS\system32\odbcint.dll', No symbols loaded.
+'ReplicationServiceD.exe': Loaded 'C:\WINDOWS\system32\uxtheme.dll', No symbols loaded.
+'ReplicationServiceD.exe': Loaded 'C:\WINDOWS\system32\MSCTF.dll', No symbols loaded.
+'ReplicationServiceD.exe': Loaded 'C:\Program Files\Ad Muncher\AM23669.dll', No symbols loaded.
+'ReplicationServiceD.exe': Loaded 'C:\WINDOWS\system32\mswsock.dll', No symbols loaded.
+'ReplicationServiceD.exe': Loaded 'C:\WINDOWS\system32\hnetcfg.dll', No symbols loaded.
+'ReplicationServiceD.exe': Loaded 'C:\WINDOWS\system32\wshtcpip.dll', No symbols loaded.
+First-chance exception at 0x7c81eb33 in ReplicationServiceD.exe: 0x000006D9: В системе отображения конечных точек не осталось доступных конечных точек.
+[2007.12.22 10:14:58.468] InitInstance: DONE
+[2007.12.22 10:14:58.468] OnStartup
+[2007.12.22 10:14:58.468] Start Listen server on port 8070
+[2007.12.22 10:15:05.218] -----------------------------------------
+[2007.12.22 10:15:05.218] ----------New connect--------------------
+[2007.12.22 10:15:05.218] -----------------------------------------
+[2007.12.22 10:15:05.234] Connected is 127.0.0.1
+[2007.12.22 10:15:05.234] Wait sending message...
+'ReplicationServiceD.exe': Loaded 'C:\WINDOWS\system32\odbccp32.dll', No symbols loaded.
+'ReplicationServiceD.exe': Loaded 'C:\WINDOWS\system32\version.dll', No symbols loaded.
+'ReplicationServiceD.exe': Loaded 'C:\WINDOWS\system32\sqlncli.dll', No symbols loaded.
+'ReplicationServiceD.exe': Loaded 'C:\WINDOWS\WinSxS\x86_Microsoft.VC80.CRT_1fc8b3b9a1e18e3b_8.0.50727.762_x-ww_6b128700\msvcr80.dll', No symbols loaded.
+'ReplicationServiceD.exe': Loaded 'C:\WINDOWS\system32\netapi32.dll', No symbols loaded.
+'ReplicationServiceD.exe': Loaded 'C:\WINDOWS\system32\crypt32.dll', No symbols loaded.
+'ReplicationServiceD.exe': Loaded 'C:\WINDOWS\system32\msasn1.dll', No symbols loaded.
+'ReplicationServiceD.exe': Loaded 'C:\WINDOWS\system32\sqlnclir.rll', No symbols loaded.
+'ReplicationServiceD.exe': Loaded 'C:\WINDOWS\system32\secur32.dll', No symbols loaded.
+'ReplicationServiceD.exe': Unloaded 'C:\WINDOWS\system32\sqlnclir.rll'
+'ReplicationServiceD.exe': Unloaded 'C:\WINDOWS\system32\sqlncli.dll'
+'ReplicationServiceD.exe': Unloaded 'C:\WINDOWS\system32\crypt32.dll'
+'ReplicationServiceD.exe': Unloaded 'C:\WINDOWS\system32\msasn1.dll'
+'ReplicationServiceD.exe': Unloaded 'C:\WINDOWS\system32\netapi32.dll'
+'ReplicationServiceD.exe': Unloaded 'C:\WINDOWS\WinSxS\x86_Microsoft.VC80.CRT_1fc8b3b9a1e18e3b_8.0.50727.762_x-ww_6b128700\msvcr80.dll'
+'ReplicationServiceD.exe': Loaded 'C:\WINDOWS\system32\sqlncli.dll', No symbols loaded.
+'ReplicationServiceD.exe': Loaded 'C:\WINDOWS\WinSxS\x86_Microsoft.VC80.CRT_1fc8b3b9a1e18e3b_8.0.50727.762_x-ww_6b128700\msvcr80.dll', No symbols loaded.
+'ReplicationServiceD.exe': Loaded 'C:\WINDOWS\system32\netapi32.dll', No symbols loaded.
+'ReplicationServiceD.exe': Loaded 'C:\WINDOWS\system32\crypt32.dll', No symbols loaded.
+'ReplicationServiceD.exe': Loaded 'C:\WINDOWS\system32\msasn1.dll', No symbols loaded.
+'ReplicationServiceD.exe': Loaded 'C:\WINDOWS\system32\sqlnclir.rll', No symbols loaded.
+'ReplicationServiceD.exe': Loaded 'C:\WINDOWS\system32\kerberos.dll', No symbols loaded.
+'ReplicationServiceD.exe': Loaded 'C:\WINDOWS\system32\cryptdll.dll', No symbols loaded.
+'ReplicationServiceD.exe': Loaded 'C:\WINDOWS\system32\msv1_0.dll', No symbols loaded.
+'ReplicationServiceD.exe': Loaded 'C:\WINDOWS\system32\iphlpapi.dll', No symbols loaded.
+'ReplicationServiceD.exe': Loaded 'C:\WINDOWS\system32\ntdsapi.dll', No symbols loaded.
+'ReplicationServiceD.exe': Loaded 'C:\WINDOWS\system32\dnsapi.dll', No symbols loaded.
+'ReplicationServiceD.exe': Loaded 'C:\WINDOWS\system32\wldap32.dll', No symbols loaded.
+'ReplicationServiceD.exe': Loaded 'C:\WINDOWS\system32\security.dll', No symbols loaded.
+'ReplicationServiceD.exe': Loaded 'C:\WINDOWS\system32\schannel.dll', No symbols loaded.
+'ReplicationServiceD.exe': Loaded 'C:\WINDOWS\system32\userenv.dll', No symbols loaded.
+'ReplicationServiceD.exe': Loaded 'C:\Program Files\Microsoft SQL Server\90\Shared\instapi.dll', No symbols loaded.
+'ReplicationServiceD.exe': Loaded 'C:\WINDOWS\system32\rsaenh.dll', No symbols loaded.
+'ReplicationServiceD.exe': Loaded 'C:\WINDOWS\system32\dssenh.dll', No symbols loaded.
+Warning: ODBC Success With Info, Контекст базы данных изменен на "ADM".
+State:01000,Native:5701,Origin:[Microsoft][SQL Native Client][SQL Server]
+
+Параметры языка изменены на "русский".
+State:01000,Native:5703,Origin:[Microsoft][SQL Native Client][SQL Server]
+
+DBMS: Microsoft SQL Server
+Version: 09.00.3042
+ODBC Driver Manager Version: 03.52.0000
+Warning: ODBC Success With Info, Тип курсора изменен
+State:01S02,Native:0,Origin:[Microsoft][SQL Native Client]
+
+Warning: Concurrency changed by driver.
+	Marking CRecordset as not updatable.
+'ReplicationServiceD.exe': Loaded 'C:\WINDOWS\system32\mfc42.dll', No symbols loaded.
+'ReplicationServiceD.exe': Loaded 'C:\WINDOWS\system32\mfc42loc.dll', No symbols loaded.
+'ReplicationServiceD.exe': Loaded 'C:\WINDOWS\system32\odbccr32.dll', No symbols loaded.
+Warning: ODBC Success With Info, Контекст базы данных изменен на "ADM".
+State:01000,Native:5701,Origin:[Microsoft][SQL Native Client][SQL Server]
+
+Параметры языка изменены на "русский".
+State:01000,Native:5703,Origin:[Microsoft][SQL Native Client][SQL Server]
+
+DBMS: Microsoft SQL Server
+Version: 09.00.3042
+ODBC Driver Manager Version: 03.52.0000
+'ReplicationServiceD.exe': Unloaded 'C:\WINDOWS\system32\odbccr32.dll'
+'ReplicationServiceD.exe': Unloaded 'C:\WINDOWS\system32\mfc42.dll'
+'ReplicationServiceD.exe': Unloaded 'C:\WINDOWS\system32\mfc42loc.dll'
+'ReplicationServiceD.exe': Unloaded 'C:\Program Files\Microsoft SQL Server\90\Shared\instapi.dll'
+'ReplicationServiceD.exe': Unloaded 'C:\WINDOWS\system32\security.dll'
+The thread 'Win32 Thread' (0xd44) has exited with code 0 (0x0).
+'ReplicationServiceD.exe': Unloaded 'C:\WINDOWS\system32\ntdsapi.dll'
+'ReplicationServiceD.exe': Unloaded 'C:\WINDOWS\system32\wldap32.dll'
+'ReplicationServiceD.exe': Unloaded 'C:\WINDOWS\system32\dnsapi.dll'
+'ReplicationServiceD.exe': Unloaded 'C:\WINDOWS\system32\sqlnclir.rll'
+'ReplicationServiceD.exe': Unloaded 'C:\WINDOWS\system32\sqlncli.dll'
+'ReplicationServiceD.exe': Unloaded 'C:\WINDOWS\WinSxS\x86_Microsoft.VC80.CRT_1fc8b3b9a1e18e3b_8.0.50727.762_x-ww_6b128700\msvcr80.dll'
+[2007.12.22 10:15:38.625] Client for ip 127.0.0.1 is disconnected.
+The thread 'Win32 Thread' (0xda8) has exited with code 0 (0x0).
+The thread 'Win32 Thread' (0x4b8) has exited with code 2 (0x2).
+[2007.12.22 10:15:47.203] ExitInstance:
+'ReplicationServiceD.exe': Unloaded 'C:\WINDOWS\system32\wshtcpip.dll'
+'ReplicationServiceD.exe': Unloaded 'C:\WINDOWS\system32\hnetcfg.dll'
+[2007.12.22 10:15:48.203] ExitInstance: DONE
+The thread 'Win32 Thread' (0x838) has exited with code 0 (0x0).
+Detected memory leaks!
+Dumping objects ->
+{201} normal block at 0x00327E10, 24 bytes long.
+ Data: <Xе          8   > 58 E5 14 00 00 00 00 00 01 00 00 00 38 08 00 00 
+Object dump complete.
+The program '[3416] ReplicationServiceD.exe: Native' has exited with code 0 (0x0).

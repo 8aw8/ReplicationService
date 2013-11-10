@@ -1,0 +1,15 @@
+------ Build started: Project: ReplicationService, Configuration: Debug Win32 ------
+
+Compiling...
+Skipping... (no relevant changes detected)
+Client.cpp
+
+Build log was saved at "file://d:\src\Binaries\Win32\ReplicationService\Debug\BuildLog.htm"
+ReplicationService - 0 error(s), 0 warning(s)
+
+
+---------------------- Done ----------------------
+
+    Build: 1 succeeded, 0 failed, 0 skipped
+
+
